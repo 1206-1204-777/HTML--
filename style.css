@@ -2,8 +2,10 @@
 body{
     background-color: blueviolet;
     text-indent: 1em;
+    text-shadow: black;
 }
 ul,li{
     color: white;
     font-weight: bold;
+
 }
